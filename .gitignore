@@ -1,0 +1,9 @@
+# C derleme dosyaları
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE dosyaları 
+*.layout
+.vscode/
